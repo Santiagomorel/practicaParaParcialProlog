@@ -142,3 +142,6 @@ especialistasEn(Plato, Restaurante):-
 menu(Restaurante, Plato) :-
     trabajaEn(Cocinere, Restaurante),
     cocina(Cocinere, Plato ,_).
+
+    hago una modificacion
+    awdklajwdlkajd
